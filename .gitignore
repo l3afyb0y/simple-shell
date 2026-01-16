@@ -54,8 +54,9 @@ dkms.conf
 # debug information files
 *.dwo
 
-# .save's
+# .sys files
 *.save
+.directory
 
 # compiled shell
 porkershell

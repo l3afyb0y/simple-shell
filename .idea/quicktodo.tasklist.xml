@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.oleksiy.quicktodo.TaskService">
+    <tasks>
+      <task id="0e147afd-11c5-41da-b975-33bd8b0b4793" text="Create first basic shell" priority="HIGH" createdAt="1768546507546" lastModified="1768546534956">
+        <option name="priorityEnum" value="HIGH" />
+      </task>
+      <task id="469fdaf8-d5dd-40b5-9223-77cc76b27e58" text="Create a terminal emulator" priority="LOW" createdAt="1768546532315" lastModified="1768546532315">
+        <option name="priorityEnum" value="LOW" />
+        <description>I want to create a term emulator for my own shell.</description>
+      </task>
+    </tasks>
+  </component>
+</project>
