@@ -57,6 +57,7 @@ dkms.conf
 # .sys files
 *.save
 .directory
+.idea/
 
 # compiled shell
 porkershell
