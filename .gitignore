@@ -54,6 +54,9 @@ dkms.conf
 # debug information files
 *.dwo
 
+# .save's
+*.save
+
 # compiled shell
 porkershell
 /.idea/copilot.data.migration.agent.xml
@@ -66,3 +69,5 @@ porkershell
 /.idea/simple-shell.iml
 /.idea/SweepConfig.xml
 /.idea/.gitignore
+/.idea/copilot.data.migration.ask.xml
+/.idea/copilot.data.migration.edit.xml
