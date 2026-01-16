@@ -56,3 +56,13 @@ dkms.conf
 
 # compiled shell
 porkershell
+/.idea/copilot.data.migration.agent.xml
+/.idea/developer-tools.xml
+/.idea/vcs.xml
+/.idea/editor.xml
+/.idea/discord.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/simple-shell.iml
+/.idea/SweepConfig.xml
+/.idea/.gitignore
